@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Gopalji07
-- 👀 I’m interested in web designing. 
-- 🌱 I’m currently learning web development. 
 - 💞️ proficient in html, css, javascript,
-     php, mysqli. 
-- 📚 have computer knowledge. 
+     php, mysqli.  
 - 📫 How to reach me 
      Contact number :- 9953907215
      E-mail:- gopallsharma2002@gmail.com
